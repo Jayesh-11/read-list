@@ -35,17 +35,18 @@
 - [ ] https://daveceddia.com/
 - [ ] https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/
 - [ ] https://ryanflorence.com/topics/
+- [ ] https://zpao.com/posts/
 #### React Fundamental
 - [x] https://kentcdodds.com/blog/what-is-jsx
 - [x] https://legacy.reactjs.org/docs/reconciliation.html
 - [ ] [The slow part of the DOM is "layout"](https://www.youtube.com/watch?v=3bc71-xzoWA)
 - [x] https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render
-- [ ] https://kentcdodds.com/blog/optimize-react-re-renders
+- [x] https://kentcdodds.com/blog/optimize-react-re-renders
 - [ ] https://kentcdodds.com/blog/understanding-reacts-key-prop
 - [ ] [Custom Hooks in React: The Ultimate UI Abstraction Layer](https://www.youtube.com/watch?v=J-g9ZJha8FE)
 - [ ] [Using Composition in React to Avoid "Prop Drilling"](https://www.youtube.com/@ReactTraining)
 - [ ] https://kentcdodds.com/blog/prop-drilling
-- [ ] https://legacy.reactjs.org/docs/render-props.html
+- [x] https://legacy.reactjs.org/docs/render-props.html
 - [ ] https://egghead.io/courses/kent-s-blog-posts-as-screencasts-eefa540c
 - [ ] https://github.com/acdlite/react-fiber-architecture
 - [ ] https://blog.ag-grid.com/inside-fiber-an-in-depth-overview-of-the-new-reconciliation-algorithm-in-react/
@@ -88,6 +89,19 @@
 - [ ] https://overreacted.io/how-are-function-components-different-from-classes/
 - [ ] https://github.com/typescript-cheatsheets/react?tab=readme-ov-file
 - [ ] https://github.com/enaqx/awesome-react?tab=readme-ov-file
+- [ ] https://github.com/reactjs/react-basic
+- [ ] https://angularindepth.com/posts/1501/exploring-how-virtual-dom-is-implemented-in-react
+- [ ] https://angularindepth.com/posts/1499/why-component-identifiers-must-be-capitalized-in-react
+- [ ] https://angularindepth.com/posts/1487/deep-dive-into-state-management-with-react-and-nextjs
+- [ ] https://angularindepth.com/posts/1452/building-a-react-static-site-generator-with-partial-hydration-in-100-lines-of-code
+- [ ] https://angularindepth.com/posts/1454/building-a-react-static-site-generator-in-20-lines-of-code-4-dependencies-and-no-transpilers
+- [ ] https://angularindepth.com/posts/1352/taking-react-animations-to-the-next-level-with-react-spring
+- [ ] https://angularindepth.com/posts/1008/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react
+- [ ] https://angularindepth.com/posts/1044/why-react-suspense-will-be-a-game-changer
+- [ ] https://angularindepth.com/posts/1009/in-depth-explanation-of-state-and-props-update-in-react
+- [ ] https://angularindepth.com/posts/1007/the-how-and-why-on-reacts-usage-of-linked-list-in-fiber-to-walk-the-components-tree
+- [ ] https://angularindepth.com/posts/1064/what-every-front-end-developer-should-know-about-change-detection-in-angular-and-react
+- [ ] https://angularindepth.com/posts/1274/a-comparison-between-angular-and-react-and-their-core-languages
 
 #### Redux
 - [ ] https://blog.isquaredsoftware.com/2017/12/idiomatic-redux-using-reselect-selectors/
@@ -118,6 +132,7 @@
 - [ ] JavaScript: The Good Parts.
 - [ ] https://github.com/domenic/promises-unwrapping
 - [x] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is
+- [ ] https://angularindepth.com/posts/1269/finding-fine-grained-reactive-programming
 #### Patterns
 - [ ] https://intoli.com/blog/python-slicing-in-javascript/
 - [ ] https://ponyfoo.com/articles/es6-proxies-in-depth
