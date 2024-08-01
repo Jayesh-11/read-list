@@ -36,6 +36,18 @@
 - [ ] https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/
 - [ ] https://ryanflorence.com/topics/
 - [ ] https://zpao.com/posts/
+- [ ] https://angularindepth.com/
+- [ ] https://developers.facebook.com/videos/
+- [ ] https://blog.algomaster.io/
+- [ ] https://github.com/ashishps1/awesome-low-level-design
+- [ ] https://sapegin.me/book/
+- [ ] https://github.com/Droogans/unmaintainable-code
+- [ ] https://github.com/trekhleb/state-of-the-art-shitcode
+- [ ] https://github.com/mithi/react-philosophies?tab=readme-ov-file
+- [x] https://svelte.dev/blog/write-less-code
+- [ ] https://github.com/alan2207/bulletproof-react/blob/master/docs/additional-resources.md
+- [ ] https://alexkondov.com/tao-of-react/
+- [ ] https://blog.codinghorror.com/recommended-reading-for-developers/
 #### React Fundamental
 - [x] https://kentcdodds.com/blog/what-is-jsx
 - [x] https://legacy.reactjs.org/docs/reconciliation.html
@@ -90,8 +102,8 @@
 - [ ] https://github.com/typescript-cheatsheets/react?tab=readme-ov-file
 - [ ] https://github.com/enaqx/awesome-react?tab=readme-ov-file
 - [ ] https://github.com/reactjs/react-basic
-- [ ] https://angularindepth.com/posts/1501/exploring-how-virtual-dom-is-implemented-in-react
-- [ ] https://angularindepth.com/posts/1499/why-component-identifiers-must-be-capitalized-in-react
+- [x] https://angularindepth.com/posts/1501/exploring-how-virtual-dom-is-implemented-in-react
+- [x] https://angularindepth.com/posts/1499/why-component-identifiers-must-be-capitalized-in-react
 - [ ] https://angularindepth.com/posts/1487/deep-dive-into-state-management-with-react-and-nextjs
 - [ ] https://angularindepth.com/posts/1452/building-a-react-static-site-generator-with-partial-hydration-in-100-lines-of-code
 - [ ] https://angularindepth.com/posts/1454/building-a-react-static-site-generator-in-20-lines-of-code-4-dependencies-and-no-transpilers
@@ -102,6 +114,14 @@
 - [ ] https://angularindepth.com/posts/1007/the-how-and-why-on-reacts-usage-of-linked-list-in-fiber-to-walk-the-components-tree
 - [ ] https://angularindepth.com/posts/1064/what-every-front-end-developer-should-know-about-change-detection-in-angular-and-react
 - [ ] https://angularindepth.com/posts/1274/a-comparison-between-angular-and-react-and-their-core-languages
+- [ ] https://github.com/maxkoretskyi/react-fiber-resources?tab=readme-ov-file
+- [ ] https://makersden.io/blog/look-inside-fiber
+- [ ] https://github.com/facebook/react/issues/7942?source=post_page---------------------------#issue-182373497
+- [ ] https://www.freecodecamp.org/news/react-cache-time-slicing-and-fetching-with-a-synchronous-api-2a57dc9c2e6d
+- [ ] https://developers.facebook.com/videos/f8-2017/the-evolution-of-react-and-graphql-at-facebook-and-beyond/
+- [ ] [Beyond React 16](https://www.youtube.com/watch?v=nLF0n9SACd4)
+- [ ] [React fibre Lin Clark](https://www.youtube.com/watch?v=ZCuYPiUIONs)
+- [ ] https://www.reactenlightenment.com/basic-react-components/6.7.html
 
 #### Redux
 - [ ] https://blog.isquaredsoftware.com/2017/12/idiomatic-redux-using-reselect-selectors/
@@ -159,6 +179,8 @@
 - [ ] [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0)
 - [ ] https://kentcdodds.com/blog/aha-programming
 - [ ] https://kentcdodds.com/blog/inversion-of-control
+- [ ] https://angularindepth.com/posts/1006/practical-application-of-reverse-engineering-guidelines-and-principles
+- [ ] https://angularindepth.com/posts/1005/level-up-your-reverse-engineering-skills
 
 #### Untitled
 - [ ] https://bradfrost.com/blog/post/atomic-web-design/
@@ -220,6 +242,8 @@ jake archibald
 
 #### System design
 - [ ] https://medium.com/@mayilb77/design-a-real-time-leaderboard-system-for-millions-of-users-08b96b4b64ce
+- [ ] https://github.com/ashishps1/awesome-system-design-resources
+- [ ] https://engineering.fb.com/2023/11/06/android/how-meta-built-threads-in-5-months/
 
 
 #### Performance
@@ -254,3 +278,19 @@ jake archibald
 - [ ] https://www.tomray.dev/nestjs-prisma
 - [ ] https://medium.com/@dev.muhammet.ozen/role-based-access-control-in-nestjs-15c15090e47d
 - [ ] https://www.howtographql.com/
+- [ ] https://www.sql-server-performance.com/
+
+#### Frontend design
+- [ ] https://engineering.fb.com/2020/05/08/web/facebook-redesign/ 
+- [ ] https://10up.github.io/Engineering-Best-Practices/
+
+#### Caching
+- [ ] https://roadmap.sh/guides/http-caching
+- [ ] 
+
+#### Graphql
+- [ ] https://github.com/orgs/howtographql/repositories
+- [ ] https://www.howtographql.com/
+
+#### CLI
+- [ ] https://clig.dev/ 
