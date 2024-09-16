@@ -48,6 +48,8 @@
 - [ ] https://github.com/alan2207/bulletproof-react/blob/master/docs/additional-resources.md
 - [ ] https://alexkondov.com/tao-of-react/
 - [ ] https://blog.codinghorror.com/recommended-reading-for-developers/
+- [ ] https://codingchallenges.fyi/
+- [ ] https://www.bookofspeed.com/
 #### React Fundamental
 - [x] https://kentcdodds.com/blog/what-is-jsx
 - [x] https://legacy.reactjs.org/docs/reconciliation.html
@@ -122,6 +124,10 @@
 - [ ] [Beyond React 16](https://www.youtube.com/watch?v=nLF0n9SACd4)
 - [ ] [React fibre Lin Clark](https://www.youtube.com/watch?v=ZCuYPiUIONs)
 - [ ] https://www.reactenlightenment.com/basic-react-components/6.7.html
+- [x] https://babeljs.io/repl/#?presets=react&code_lz=GYVwdgxgLglg9mABACwKYBt1wBQEpEDeAUIogE6pQhlIA8AJjAG4B8AEhlogO5xnr0AhLQD0jVgG4iAXyJA - visualize JSX
+- [ ] https://incepter.github.io/how-react-works/
+- [ ] https://github.com/koba04/react-fiber-resources
+- [ ] https://github.com/6thfdwp/learning-thoughts/issues/5
 
 #### Redux
 - [ ] https://blog.isquaredsoftware.com/2017/12/idiomatic-redux-using-reselect-selectors/
@@ -294,3 +300,12 @@ jake archibald
 
 #### CLI
 - [ ] https://clig.dev/ 
+
+#### Awesome websites / blog about cool web components
+- [ ] https://vercel.com/blog/building-an-interactive-3d-event-badge-with-react-three-fiber
+- [ ] https://www.mikiyakobayashi.com/projects
+- [ ] https://www.cssdesignawards.com/wotd-award-winners
+
+#### NVIM setups
+- [ ] https://blog.inkdrop.app/my-neovim-setup-for-react-typescript-tailwind-css-etc-in-2022-a7405862c9a4
+- [ ] 
