@@ -349,3 +349,4 @@ jake archibald
 - [ ] https://wasmweekly.news/subscribe/
 - [X] https://www.nngroup.com/articles/subscribe/
 - [X] https://sidebar.io/
+- [X] https://adripofjavascript.com/
