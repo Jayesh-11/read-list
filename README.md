@@ -309,3 +309,43 @@ jake archibald
 #### NVIM setups
 - [ ] https://blog.inkdrop.app/my-neovim-setup-for-react-typescript-tailwind-css-etc-in-2022-a7405862c9a4
 - [ ] 
+
+
+#### NewsLetters
+- [X] https://ecmascript.news/index.html
+- [X] https://www.quastor.org/
+- [X] https://www.pointer.io/
+- [X] https://softwareleadweekly.com/
+- [X] https://newsletter.pragmaticengineer.com
+- [X] https://css-weekly.com 
+- [X] https://changelog.com/news
+- [ ] https://golangweekly.com 
+- [ ] https://sitepoint.com
+- [X] https://webweekly.email
+- [ ] https://webtoolsweekly.com/
+- [X] http://techmanagerweekly.com/
+- [X] https://bytes.dev 
+- [ ] https://frontendfoc.us
+- [X] https://tldr.tech/
+- [X] https://hackernewsletter.com/
+- [ ] https://css-tricks.com
+- [X] https://smashingmagazine.com
+- [ ] https://javascriptweekly.com/
+- [X] https://www.frontendweekly.co/
+- [ ] https://nodeweekly.com/
+- [X] https://heydesigner.com/
+- [X] https://cssanimation.rocks/weekly/
+- [ ] https://mobiledevweekly.com/
+- [X] https://thisweekinreact.com/
+- [X] https://csslayout.news/
+- [X] https://piccalil.li/
+- [X] https://news.design.systems/
+- [X] https://www.mozilla.org/en-US/newsletter/developer/
+- [X] https://www.troyhunt.com/#subscribe
+- [ ] https://react.statuscode.com/
+- [ ] https://nextjs.org/blog
+- [X] http://reactnativenewsletter.com/
+- [X] https://typescript-weekly.com/
+- [ ] https://wasmweekly.news/subscribe/
+- [X] https://www.nngroup.com/articles/subscribe/
+- [X] https://sidebar.io/
