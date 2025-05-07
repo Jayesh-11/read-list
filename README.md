@@ -1,5 +1,6 @@
 - [ ] http://www.adequatelygood.com/
 - [ ] https://www.deepintodev.com/
+- [ ] https://antfu.me/posts
 - [ ] https://medium.com/@zlatkov
 - [ ] https://ponyfoo.com/contributors/ponyfoo
 - [ ] https://blog.isquaredsoftware.com/
