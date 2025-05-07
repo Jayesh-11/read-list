@@ -1,4 +1,5 @@
 - [ ] http://www.adequatelygood.com/
+- [ ] https://www.deepintodev.com/
 - [ ] https://medium.com/@zlatkov
 - [ ] https://ponyfoo.com/contributors/ponyfoo
 - [ ] https://blog.isquaredsoftware.com/
@@ -52,6 +53,7 @@
 - [ ] https://www.bookofspeed.com/
 #### React Fundamental
 - [x] https://kentcdodds.com/blog/what-is-jsx
+- [ ] https://www.deepintodev.com/blog/how-react-works-behind-the-scenes
 - [x] https://legacy.reactjs.org/docs/reconciliation.html
 - [ ] [The slow part of the DOM is "layout"](https://www.youtube.com/watch?v=3bc71-xzoWA)
 - [x] https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render
@@ -159,6 +161,10 @@
 - [ ] https://github.com/domenic/promises-unwrapping
 - [x] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is
 - [ ] https://angularindepth.com/posts/1269/finding-fine-grained-reactive-programming
+- [ ] https://www.deepintodev.com/blog/how-javascript-works-behind-the-scenes
+- [ ] https://www.deepintodev.com/blog/how-nodejs-works-behind-the-scenes
+- [ ] https://www.deepintodev.com/blog/how-promises-work-in-javascript
+- [ ] 
 #### Patterns
 - [ ] https://intoli.com/blog/python-slicing-in-javascript/
 - [ ] https://ponyfoo.com/articles/es6-proxies-in-depth
@@ -191,6 +197,7 @@
 #### Untitled
 - [ ] https://bradfrost.com/blog/post/atomic-web-design/
 - [ ] https://gist.github.com/chenglou/40b75d820123a9ed53d8
+- [ ] https://www.deepintodev.com/blog/how-data-travels-the-world-to-reach-your-screen
 
 jake archibald
 
