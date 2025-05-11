@@ -316,7 +316,9 @@ jake archibald
 
 #### NVIM setups
 - [ ] https://blog.inkdrop.app/my-neovim-setup-for-react-typescript-tailwind-css-etc-in-2022-a7405862c9a4
-- [ ] 
+
+#### UI libs
+- [ ] https://uiverse.io/
 
 
 #### NewsLetters
