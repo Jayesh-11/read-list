@@ -301,7 +301,6 @@ jake archibald
 
 #### Caching
 - [ ] https://roadmap.sh/guides/http-caching
-- [ ] 
 
 #### Graphql
 - [ ] https://github.com/orgs/howtographql/repositories
