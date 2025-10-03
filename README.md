@@ -52,6 +52,8 @@
 - [ ] https://blog.codinghorror.com/recommended-reading-for-developers/
 - [ ] https://codingchallenges.fyi/
 - [ ] https://www.bookofspeed.com/
+
+
 #### React Fundamental
 - [x] https://kentcdodds.com/blog/what-is-jsx
 - [ ] https://www.deepintodev.com/blog/how-react-works-behind-the-scenes
@@ -144,7 +146,8 @@
 - [ ] https://github.com/markerikson/redux-ecosystem-links
 
 #### V8 engine
-- [ ] https://medium.com/sessionstack-blog/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e
+- [ ] [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://medium.com/@zlatkov/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
+- [ ] [The V8 JavaScript Engine](https://medium.com/@manikmudholkar831995/the-v8-javascript-engine-d1434ca77c96)
 
 #### Developer experience / softskills of developers
 - [ ] https://davidwalsh.name/conquering-impostor-syndrome
@@ -152,6 +155,8 @@
 - [ ] http://sscce.org/
 - [ ] https://medium.com/@dan_abramov/asking-good-questions-421f08ee7e5c
 - [x] https://overreacted.io/the-elements-of-ui-engineering/
+
+
 #### JS core
 - [ ] https://davidwalsh.name/essential-javascript-functions
 - [ ] https://kentcdodds.com/blog/the-merits-of-mocking
@@ -165,7 +170,12 @@
 - [ ] https://www.deepintodev.com/blog/how-javascript-works-behind-the-scenes
 - [ ] https://www.deepintodev.com/blog/how-nodejs-works-behind-the-scenes
 - [ ] https://www.deepintodev.com/blog/how-promises-work-in-javascript
-- [ ] 
+- [ ] [The Third Age of JavaScript](https://www.swyx.io/js-third-age)
+- [ ] [JavaScript Parser in Rust](https://oxc.rs/docs/learn/parser_in_rust/intro.html)
+- [ ] [Pursuit of Performance on Building a JavaScript Compiler](https://rustmagazine.org/issue-3/javascript-compiler/)
+- [ ] [Build Your Own JS Code Bundler](https://blog.bitsrc.io/building-your-first-bundler-99e4fdf502b2)
+
+
 #### Patterns
 - [ ] https://intoli.com/blog/python-slicing-in-javascript/
 - [ ] https://ponyfoo.com/articles/es6-proxies-in-depth
@@ -327,6 +337,11 @@ jake archibald
 
 #### UNIX
 - [ ] [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/index.html)
+
+#### Rust
+- [ ] [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
+- [ ] [JavaScript Parser in Rust](https://oxc.rs/docs/learn/parser_in_rust/intro.html)
+- [ ] [Pursuit of Performance on Building a JavaScript Compiler](https://rustmagazine.org/issue-3/javascript-compiler/)
 
 
 #### NewsLetters
