@@ -174,6 +174,7 @@
 - [ ] [JavaScript Parser in Rust](https://oxc.rs/docs/learn/parser_in_rust/intro.html)
 - [ ] [Pursuit of Performance on Building a JavaScript Compiler](https://rustmagazine.org/issue-3/javascript-compiler/)
 - [ ] [Build Your Own JS Code Bundler](https://blog.bitsrc.io/building-your-first-bundler-99e4fdf502b2)
+- [ ] [Collapsing Layers](https://www.swyx.io/collapsing-layers)
 
 
 #### Patterns
