@@ -205,6 +205,8 @@
 - [ ] https://kentcdodds.com/blog/inversion-of-control
 - [ ] https://angularindepth.com/posts/1006/practical-application-of-reverse-engineering-guidelines-and-principles
 - [ ] https://angularindepth.com/posts/1005/level-up-your-reverse-engineering-skills
+- [ ] [Reflective programming](https://en.wikipedia.org/wiki/Reflective_programming)
+
 
 #### Untitled
 - [ ] https://bradfrost.com/blog/post/atomic-web-design/
