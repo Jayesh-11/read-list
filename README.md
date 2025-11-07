@@ -260,6 +260,7 @@ jake archibald
 
 #### CSS
 - [ ] https://css-tricks.com/specifics-on-css-specificity/
+- [ ] https://johnresig.com/blog/sub-pixel-problems-in-css/
 
 #### Game development
 - [ ] https://developer.mozilla.org/en-US/docs/Games
