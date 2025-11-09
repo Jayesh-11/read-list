@@ -206,6 +206,7 @@
 - [ ] https://angularindepth.com/posts/1006/practical-application-of-reverse-engineering-guidelines-and-principles
 - [ ] https://angularindepth.com/posts/1005/level-up-your-reverse-engineering-skills
 - [ ] [Reflective programming](https://en.wikipedia.org/wiki/Reflective_programming)
+- [ ] https://cekrem.github.io/posts/why-typescript-wont-save-you/
 
 
 #### Untitled
@@ -221,6 +222,7 @@ jake archibald
 - [ ] https://github.com/nvim-lua/kickstart.nvim/blob/master/init.lua
 - [ ] https://github.com/iggredible/Learn-Vim?tab=readme-ov-file
 - [ ] https://devhints.io/vim
+- [ ] https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/
 
 #### Browser
 - [ ] https://web.dev/articles/howbrowserswork
