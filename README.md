@@ -299,6 +299,7 @@ jake archibald
 
 #### Bundlers and stuff
 - [ ] https://www.freecodecamp.org/news/how-to-combine-webpack-4-and-babel-7-to-create-a-fantastic-react-app-845797e036ff
+- [ ] [A Gentle Introduction to Prepack](https://gist.github.com/gaearon/d85dccba72b809f56a9553972e5c33c4)
 
 #### Service workers
 - [ ] https://css-tricks.com/making-your-web-app-work-offline-part-1/
