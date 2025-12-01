@@ -305,6 +305,8 @@ jake archibald
 - [ ] https://css-tricks.com/making-your-web-app-work-offline-part-1/
 - [ ] https://adamrackis.dev/blog/offline-web-development
 - [ ] https://css-tricks.com/vitepwa-plugin-offline-service-worker/
+- [ ] https://jakearchibald.com/2016/caching-best-practices/
+- [ ] https://web.dev/articles/service-worker-lifecycle
 
 #### Backend
 - [ ] https://www.tomray.dev/nestjs-prisma
