@@ -173,7 +173,6 @@
 - [ ] [The Third Age of JavaScript](https://www.swyx.io/js-third-age)
 - [ ] [JavaScript Parser in Rust](https://oxc.rs/docs/learn/parser_in_rust/intro.html)
 - [ ] [Pursuit of Performance on Building a JavaScript Compiler](https://rustmagazine.org/issue-3/javascript-compiler/)
-- [ ] [Build Your Own JS Code Bundler](https://blog.bitsrc.io/building-your-first-bundler-99e4fdf502b2)
 - [ ] [Collapsing Layers](https://www.swyx.io/collapsing-layers)
 
 
@@ -300,6 +299,8 @@ jake archibald
 #### Bundlers and stuff
 - [ ] https://www.freecodecamp.org/news/how-to-combine-webpack-4-and-babel-7-to-create-a-fantastic-react-app-845797e036ff
 - [ ] [A Gentle Introduction to Prepack](https://gist.github.com/gaearon/d85dccba72b809f56a9553972e5c33c4)
+- [ ] https://requirejs.org/docs/whyamd.html
+- [ ] [Build Your Own JS Code Bundler](https://blog.bitsrc.io/building-your-first-bundler-99e4fdf502b2)
 
 #### Service workers
 - [ ] https://css-tricks.com/making-your-web-app-work-offline-part-1/
