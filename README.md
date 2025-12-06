@@ -301,6 +301,17 @@ jake archibald
 - [ ] [A Gentle Introduction to Prepack](https://gist.github.com/gaearon/d85dccba72b809f56a9553972e5c33c4)
 - [ ] https://requirejs.org/docs/whyamd.html
 - [ ] [Build Your Own JS Code Bundler](https://blog.bitsrc.io/building-your-first-bundler-99e4fdf502b2)
+- [ ] https://medium.com/@gimenete/how-javascript-bundlers-work-1fc0d0caf2da
+- [ ] https://dev.to/iggredible/what-the-heck-are-cjs-amd-umd-and-esm-ikm
+- [ ] https://www.freecodecamp.org/news/anatomy-of-js-module-systems-and-building-libraries-fadcd8dbd0e/
+- [ ] https://blog.risingstack.com/node-js-at-scale-module-system-commonjs-require/
+- [ ] https://tagneto.blogspot.com/2011/04/on-inventing-js-module-formats-and.html
+- [ ] https://requirejs.org/docs/whyamd.html
+- [ ] https://web.dev/articles/reduce-javascript-payloads-with-tree-shaking
+- [ ] https://exploringjs.com/es6/ch_modules.html#static-module-structure
+- [ ] https://jakearchibald.com/2017/es-modules-in-browsers/
+- [ ] https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
+- [ ] https://hacks.mozilla.org/2018/12/rust-2018-is-here/
 
 #### Service workers
 - [ ] https://css-tricks.com/making-your-web-app-work-offline-part-1/
