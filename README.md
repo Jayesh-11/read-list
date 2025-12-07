@@ -52,6 +52,7 @@
 - [ ] https://blog.codinghorror.com/recommended-reading-for-developers/
 - [ ] https://codingchallenges.fyi/
 - [ ] https://www.bookofspeed.com/
+- [ ] https://hacks.mozilla.org/author/lclarkmozilla-com/
 
 
 #### React Fundamental
