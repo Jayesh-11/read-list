@@ -53,6 +53,7 @@
 - [ ] https://codingchallenges.fyi/
 - [ ] https://www.bookofspeed.com/
 - [ ] https://hacks.mozilla.org/author/lclarkmozilla-com/
+- [ ] https://burntsushi.net/
 
 
 #### React Fundamental
@@ -364,6 +365,7 @@ jake archibald
 - [ ] [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
 - [ ] [JavaScript Parser in Rust](https://oxc.rs/docs/learn/parser_in_rust/intro.html)
 - [ ] [Pursuit of Performance on Building a JavaScript Compiler](https://rustmagazine.org/issue-3/javascript-compiler/)
+- [ ] [Index 1,600,000,000 Keys with Automata and Rust](https://burntsushi.net/transducers/)
 
 
 #### NewsLetters
