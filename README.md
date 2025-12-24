@@ -176,6 +176,8 @@
 - [ ] [JavaScript Parser in Rust](https://oxc.rs/docs/learn/parser_in_rust/intro.html)
 - [ ] [Pursuit of Performance on Building a JavaScript Compiler](https://rustmagazine.org/issue-3/javascript-compiler/)
 - [ ] [Collapsing Layers](https://www.swyx.io/collapsing-layers)
+- [ ] [Inlining constants with const enums in TypeScript](https://www.growingwiththeweb.com/2021/01/typescript-inline-const-enums.html)
+- [ ] 
 
 
 #### Patterns
@@ -340,7 +342,8 @@ jake archibald
 - [ ] https://www.howtographql.com/
 
 #### CLI
-- [ ] https://clig.dev/ 
+- [ ] https://clig.dev/
+- [ ] https://zsh.sourceforge.io/Guide/zshguide.html
 
 #### Awesome websites / blog about cool web components
 - [ ] https://vercel.com/blog/building-an-interactive-3d-event-badge-with-react-three-fiber
