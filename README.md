@@ -54,6 +54,7 @@
 - [ ] https://www.bookofspeed.com/
 - [ ] https://hacks.mozilla.org/author/lclarkmozilla-com/
 - [ ] https://burntsushi.net/
+- [ ] https://jvns.ca/
 
 
 #### React Fundamental
