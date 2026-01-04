@@ -370,6 +370,7 @@ jake archibald
 - [ ] [JavaScript Parser in Rust](https://oxc.rs/docs/learn/parser_in_rust/intro.html)
 - [ ] [Pursuit of Performance on Building a JavaScript Compiler](https://rustmagazine.org/issue-3/javascript-compiler/)
 - [ ] [Index 1,600,000,000 Keys with Automata and Rust](https://burntsushi.net/transducers/)
+- [ ] [Rust and Neovim - A Thorough Guide and Walkthrough](https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/)
 
 
 #### NewsLetters
