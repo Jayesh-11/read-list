@@ -373,6 +373,15 @@ jake archibald
 - [ ] [Rust and Neovim - A Thorough Guide and Walkthrough](https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/)
 
 
+#### JSLinux & browser VMs
+- [ ] https://github.com/leaningtech
+- [ ] https://cheerpx.io/blog/cx-10
+- [ ] https://bellard.org/jslinux/
+- [ ] https://bellard.org/jslinux/tech.html
+- [ ] https://bellard.org/tinyemu/
+- [ ] https://github.com/jslinux/jslinux?tab=readme-ov-file
+- [ ] https://github.com/levskaya/jslinux-deobfuscated/blob/master/cpux86-ta.js
+
 #### NewsLetters
 - [X] https://ecmascript.news/index.html
 - [X] https://www.quastor.org/
