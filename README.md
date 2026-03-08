@@ -382,6 +382,15 @@ jake archibald
 - [ ] https://github.com/jslinux/jslinux?tab=readme-ov-file
 - [ ] https://github.com/levskaya/jslinux-deobfuscated/blob/master/cpux86-ta.js
 
+#### Web SQL DB
+- [ ] https://sql.js.org/
+- [ ] https://github.com/sql-js/sql.js/
+- [ ] https://github.com/wuchuheng/web-sqlite-js
+
+#### Web File system
+- [ ] https://web.dev/articles/origin-private-file-system
+- [ ] https://developer.mozilla.org/en-US/docs/Web/API/File_System_API/Origin_private_file_system#browser_compatibility
+
 #### NewsLetters
 - [X] https://ecmascript.news/index.html
 - [X] https://www.quastor.org/
