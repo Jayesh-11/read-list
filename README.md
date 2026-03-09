@@ -240,6 +240,7 @@ jake archibald
 - [ ] https://developer.mozilla.org/en-US/docs/Web/API/Node
 - [ ] https://www.freecodecamp.org/news/dom-manipulation-htmlcollection-vs-nodelist/
 - [ ] https://stackoverflow.blog/2022/12/26/why-the-number-input-is-the-worst-input/
+- [ ] https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs
 
 #### State Machine
 - [ ] [David Khourshid: Simplifying Complex UIs with Finite Automata & Statecharts | JSConf Iceland 2018](https://www.youtube.com/@jsconf_)
