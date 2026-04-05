@@ -27,8 +27,8 @@
 - [ ] https://julesblom.com/
 - [ ] https://almanac.httparchive.org/en/2022/
 - [ ] https://blog.isquaredsoftware.com/series/how-web-apps-work/
-- [ ] https://humanwhocodes.com/blog/ 
-- [ ] https://trekhleb.dev/blog/ 
+- [ ] https://humanwhocodes.com/blog/
+- [ ] https://trekhleb.dev/blog/
 - [ ] https://adamrackis.dev/
 - [ ] https://thoughtspile.github.io/tags/react/
 - [ ] https://www.reactiflux.com/learning
@@ -56,8 +56,8 @@
 - [ ] https://burntsushi.net/
 - [ ] https://jvns.ca/
 
-
 #### React Fundamental
+
 - [x] https://kentcdodds.com/blog/what-is-jsx
 - [ ] https://www.deepintodev.com/blog/how-react-works-behind-the-scenes
 - [x] https://legacy.reactjs.org/docs/reconciliation.html
@@ -138,6 +138,7 @@
 - [ ] https://github.com/6thfdwp/learning-thoughts/issues/5
 
 #### Redux
+
 - [ ] https://blog.isquaredsoftware.com/2017/12/idiomatic-redux-using-reselect-selectors/
 - [ ] https://react-redux.js.org/using-react-redux/connect-mapstate#mapstatetoprops-and-performance
 - [ ] https://redux.js.org/faq/organizing-state#do-i-have-to-put-all-my-state-into-redux-should-i-ever-use-reacts-setstate
@@ -149,18 +150,20 @@
 - [ ] https://github.com/markerikson/redux-ecosystem-links
 
 #### V8 engine
+
 - [ ] [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://medium.com/@zlatkov/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
 - [ ] [The V8 JavaScript Engine](https://medium.com/@manikmudholkar831995/the-v8-javascript-engine-d1434ca77c96)
 
 #### Developer experience / softskills of developers
+
 - [ ] https://davidwalsh.name/conquering-impostor-syndrome
 - [ ] https://davidwalsh.name/impostor-syndrome
 - [ ] http://sscce.org/
 - [ ] https://medium.com/@dan_abramov/asking-good-questions-421f08ee7e5c
 - [x] https://overreacted.io/the-elements-of-ui-engineering/
 
-
 #### JS core
+
 - [ ] https://davidwalsh.name/essential-javascript-functions
 - [ ] https://kentcdodds.com/blog/the-merits-of-mocking
 - [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create
@@ -178,10 +181,10 @@
 - [ ] [Pursuit of Performance on Building a JavaScript Compiler](https://rustmagazine.org/issue-3/javascript-compiler/)
 - [ ] [Collapsing Layers](https://www.swyx.io/collapsing-layers)
 - [ ] [Inlining constants with const enums in TypeScript](https://www.growingwiththeweb.com/2021/01/typescript-inline-const-enums.html)
-- [ ] 
-
+- [ ]
 
 #### Patterns
+
 - [ ] https://intoli.com/blog/python-slicing-in-javascript/
 - [ ] https://ponyfoo.com/articles/es6-proxies-in-depth
 - [ ] https://github.com/mikaelbr/awesome-es2015-proxy
@@ -194,6 +197,7 @@
 - [ ] https://javascriptpatterns.vercel.app/patterns/performance-patterns/introduction
 
 #### React state management
+
 - [ ] https://kentcdodds.com/blog/application-state-management-with-react
 - [ ] https://kentcdodds.com/blog/how-to-use-react-context-effectively
 - [ ] https://kentcdodds.com/blog/state-colocation-will-make-your-react-app-faster
@@ -201,9 +205,11 @@
 - [ ] https://redux.js.org/faq/organizing-state#do-i-have-to-put-all-my-state-into-redux-should-i-ever-use-reacts-setstate
 
 #### Open source
+
 - [ ] https://egghead.io/courses/how-to-write-an-open-source-javascript-library?af=5236ad
 
 #### Development Fundamentals
+
 - [ ] [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0)
 - [ ] https://kentcdodds.com/blog/aha-programming
 - [ ] https://kentcdodds.com/blog/inversion-of-control
@@ -212,8 +218,8 @@
 - [ ] [Reflective programming](https://en.wikipedia.org/wiki/Reflective_programming)
 - [ ] https://cekrem.github.io/posts/why-typescript-wont-save-you/
 
-
 #### Untitled
+
 - [ ] https://bradfrost.com/blog/post/atomic-web-design/
 - [ ] https://gist.github.com/chenglou/40b75d820123a9ed53d8
 - [ ] https://www.deepintodev.com/blog/how-data-travels-the-world-to-reach-your-screen
@@ -221,6 +227,7 @@
 jake archibald
 
 #### Vim
+
 - [ ] https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
 - [ ] https://www.vimgolf.com/
 - [ ] https://github.com/nvim-lua/kickstart.nvim/blob/master/init.lua
@@ -229,12 +236,13 @@ jake archibald
 - [ ] https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/
 
 #### Browser
+
 - [ ] https://web.dev/articles/howbrowserswork
 - [ ] https://medium.com/@ramsunvtech/behind-browser-basics-part-1-b733e9f3c0e6
 - [ ] https://grosskurth.ca/papers/browser-refarch.pdf
 
-
 #### HTML
+
 - [ ] https://www.w3.org/TR/1998/REC-DOM-Level-1-19981001/level-one-core.html
 - [ ] http://perfectionkills.com/whats-wrong-with-extending-the-dom/
 - [ ] https://developer.mozilla.org/en-US/docs/Web/API/Node
@@ -243,46 +251,52 @@ jake archibald
 - [ ] https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs
 
 #### State Machine
+
 - [ ] [David Khourshid: Simplifying Complex UIs with Finite Automata & Statecharts | JSConf Iceland 2018](https://www.youtube.com/@jsconf_)
 - [ ] https://gist.github.com/livoras/9d995948b412e4c22776
 - [ ] https://github.com/cassiozen/useStateMachine
 
-
 #### Testing
+
 - [ ] [JavaScript & React Testing with Jest](https://youtu.be/i31VtyJSM-I?list=PLV5CVI1eNcJi8sor_aQ2AzOeQ3On3suOr)
 
 #### Rendering
+
 - [ ] [Rendering on the Web: Performance Implications of Application Architecture (Google I/O ’19)](https://www.youtube.com/watch?v=k-A2VfuUROg)
 - [ ] https://web.dev/articles/rendering-on-the-web
 - [ ] [Fetching and hydrating a Next.JS app using `getServerSideProps` and `getStaticProps`](https://medium.com/swlh/fetching-and-hydrating-a-next-js-app-using-getserversideprops-and-getstaticprops-65bfe42afed8)
 - [ ] https://www.digitalocean.com/community/tutorials/react-server-side-rendering
 
 #### React router
+
 - [ ] https://reactrouter.com/en/main
 - [ ] https://remix.run/blog/remixing-react-router
 
 #### UI stuff
+
 - [ ] https://bytes.swiggy.com/swiggy-design-language-system-1ef9cca11186
 
-
 #### CSS
+
 - [ ] https://css-tricks.com/specifics-on-css-specificity/
 - [ ] https://johnresig.com/blog/sub-pixel-problems-in-css/
 
 #### Game development
+
 - [ ] https://developer.mozilla.org/en-US/docs/Games
 
 #### Package Management
+
 - [ ] https://romanglushach.medium.com/comparing-npm-yarn-and-pnpm-package-managers-which-one-is-right-for-your-distributed-project-to-4d7de2f0db8e
 
-
 #### System design
+
 - [ ] https://medium.com/@mayilb77/design-a-real-time-leaderboard-system-for-millions-of-users-08b96b4b64ce
 - [ ] https://github.com/ashishps1/awesome-system-design-resources
 - [ ] https://engineering.fb.com/2023/11/06/android/how-meta-built-threads-in-5-months/
 
-
 #### Performance
+
 - [ ] https://web.dev/articles/rail
 - [ ] https://web.dev/articles/rendering-performance
 - [ ] https://web.dev/articles/remove-unused-code
@@ -298,11 +312,13 @@ jake archibald
 - [ ] https://www.developerway.com/posts/how-to-write-performant-react-code
 
 #### Linting
+
 - [x] https://overreacted.io/writing-resilient-components/
 - [x] https://medium.com/@nikgraf/why-you-should-enforce-dangling-commas-for-multiline-statements-d034c98e36f8
 - [x] https://medium.com/free-code-camp/these-tools-will-help-you-write-clean-code-da4b5401f68e
 
 #### Bundlers and stuff
+
 - [ ] https://www.freecodecamp.org/news/how-to-combine-webpack-4-and-babel-7-to-create-a-fantastic-react-app-845797e036ff
 - [ ] [A Gentle Introduction to Prepack](https://gist.github.com/gaearon/d85dccba72b809f56a9553972e5c33c4)
 - [ ] https://requirejs.org/docs/whyamd.html
@@ -320,6 +336,7 @@ jake archibald
 - [ ] https://hacks.mozilla.org/2018/12/rust-2018-is-here/
 
 #### Service workers
+
 - [ ] https://css-tricks.com/making-your-web-app-work-offline-part-1/
 - [ ] https://adamrackis.dev/blog/offline-web-development
 - [ ] https://css-tricks.com/vitepwa-plugin-offline-service-worker/
@@ -327,54 +344,65 @@ jake archibald
 - [ ] https://web.dev/articles/service-worker-lifecycle
 
 #### Backend
+
 - [ ] https://www.tomray.dev/nestjs-prisma
 - [ ] https://medium.com/@dev.muhammet.ozen/role-based-access-control-in-nestjs-15c15090e47d
 - [ ] https://www.howtographql.com/
 - [ ] https://www.sql-server-performance.com/
 
 #### Frontend design
-- [ ] https://engineering.fb.com/2020/05/08/web/facebook-redesign/ 
+
+- [ ] https://engineering.fb.com/2020/05/08/web/facebook-redesign/
 - [ ] https://10up.github.io/Engineering-Best-Practices/
 
 #### Caching
+
 - [ ] https://roadmap.sh/guides/http-caching
 
 #### Graphql
+
 - [ ] https://github.com/orgs/howtographql/repositories
 - [ ] https://www.howtographql.com/
 
 #### CLI
+
 - [ ] https://clig.dev/
 - [ ] https://zsh.sourceforge.io/Guide/zshguide.html
 
 #### Awesome websites / blog about cool web components
+
 - [ ] https://vercel.com/blog/building-an-interactive-3d-event-badge-with-react-three-fiber
 - [ ] https://www.mikiyakobayashi.com/projects
 - [ ] https://www.cssdesignawards.com/wotd-award-winners
 
 #### NVIM setups
+
 - [ ] https://blog.inkdrop.app/my-neovim-setup-for-react-typescript-tailwind-css-etc-in-2022-a7405862c9a4
 
 #### UI libs
+
 - [ ] https://uiverse.io/
 
 #### Button
+
 - [ ] [Building a Button Part 1: Press Events](https://react-spectrum.adobe.com/blog/building-a-button-part-1.html)
 - [ ] [Building a Button Part 2: Hover Interactions](https://react-spectrum.adobe.com/blog/building-a-button-part-2.html)
 - [ ] [Building a Button Part 3: Keyboard Focus Behavior](https://react-spectrum.adobe.com/blog/building-a-button-part-3.html)
 
 #### UNIX
+
 - [ ] [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/index.html)
 
 #### Rust
+
 - [ ] [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
 - [ ] [JavaScript Parser in Rust](https://oxc.rs/docs/learn/parser_in_rust/intro.html)
 - [ ] [Pursuit of Performance on Building a JavaScript Compiler](https://rustmagazine.org/issue-3/javascript-compiler/)
 - [ ] [Index 1,600,000,000 Keys with Automata and Rust](https://burntsushi.net/transducers/)
 - [ ] [Rust and Neovim - A Thorough Guide and Walkthrough](https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/)
 
-
 #### JSLinux & browser VMs
+
 - [ ] https://github.com/leaningtech
 - [ ] https://cheerpx.io/blog/cx-10
 - [ ] https://bellard.org/jslinux/
@@ -384,50 +412,53 @@ jake archibald
 - [ ] https://github.com/levskaya/jslinux-deobfuscated/blob/master/cpux86-ta.js
 
 #### Web SQL DB
+
 - [ ] https://sql.js.org/
 - [ ] https://github.com/sql-js/sql.js/
 - [ ] https://github.com/wuchuheng/web-sqlite-js
 
 #### Web File system
+
 - [ ] https://web.dev/articles/origin-private-file-system
 - [ ] https://developer.mozilla.org/en-US/docs/Web/API/File_System_API/Origin_private_file_system#browser_compatibility
 
 #### NewsLetters
-- [X] https://ecmascript.news/index.html
-- [X] https://www.quastor.org/
-- [X] https://www.pointer.io/
-- [X] https://softwareleadweekly.com/
-- [X] https://newsletter.pragmaticengineer.com
-- [X] https://css-weekly.com 
-- [X] https://changelog.com/news
-- [ ] https://golangweekly.com 
+
+- [x] https://ecmascript.news/index.html
+- [x] https://www.quastor.org/
+- [x] https://www.pointer.io/
+- [x] https://softwareleadweekly.com/
+- [x] https://newsletter.pragmaticengineer.com
+- [x] https://css-weekly.com
+- [x] https://changelog.com/news
+- [ ] https://golangweekly.com
 - [ ] https://sitepoint.com
-- [X] https://webweekly.email
+- [x] https://webweekly.email
 - [ ] https://webtoolsweekly.com/
-- [X] http://techmanagerweekly.com/
-- [X] https://bytes.dev 
+- [x] http://techmanagerweekly.com/
+- [x] https://bytes.dev
 - [ ] https://frontendfoc.us
-- [X] https://tldr.tech/
-- [X] https://hackernewsletter.com/
+- [x] https://tldr.tech/
+- [x] https://hackernewsletter.com/
 - [ ] https://css-tricks.com
-- [X] https://smashingmagazine.com
+- [x] https://smashingmagazine.com
 - [ ] https://javascriptweekly.com/
-- [X] https://www.frontendweekly.co/
+- [x] https://www.frontendweekly.co/
 - [ ] https://nodeweekly.com/
-- [X] https://heydesigner.com/
-- [X] https://cssanimation.rocks/weekly/
+- [x] https://heydesigner.com/
+- [x] https://cssanimation.rocks/weekly/
 - [ ] https://mobiledevweekly.com/
-- [X] https://thisweekinreact.com/
-- [X] https://csslayout.news/
-- [X] https://piccalil.li/
-- [X] https://news.design.systems/
-- [X] https://www.mozilla.org/en-US/newsletter/developer/
-- [X] https://www.troyhunt.com/#subscribe
+- [x] https://thisweekinreact.com/
+- [x] https://csslayout.news/
+- [x] https://piccalil.li/
+- [x] https://news.design.systems/
+- [x] https://www.mozilla.org/en-US/newsletter/developer/
+- [x] https://www.troyhunt.com/#subscribe
 - [ ] https://react.statuscode.com/
 - [ ] https://nextjs.org/blog
-- [X] http://reactnativenewsletter.com/
-- [X] https://typescript-weekly.com/
+- [x] http://reactnativenewsletter.com/
+- [x] https://typescript-weekly.com/
 - [ ] https://wasmweekly.news/subscribe/
-- [X] https://www.nngroup.com/articles/subscribe/
-- [X] https://sidebar.io/
-- [X] https://adripofjavascript.com/
+- [x] https://www.nngroup.com/articles/subscribe/
+- [x] https://sidebar.io/
+- [x] https://adripofjavascript.com/
