@@ -55,6 +55,7 @@
 - [ ] https://hacks.mozilla.org/author/lclarkmozilla-com/
 - [ ] https://burntsushi.net/
 - [ ] https://jvns.ca/
+- [ ] https://alexhwoods.com/
 
 #### React Fundamental
 
@@ -154,13 +155,15 @@
 - [ ] [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://medium.com/@zlatkov/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
 - [ ] [The V8 JavaScript Engine](https://medium.com/@manikmudholkar831995/the-v8-javascript-engine-d1434ca77c96)
 
-#### Developer experience / softskills of developers
+#### Developer experience / softskills of developers / Developer productivity
 
 - [ ] https://davidwalsh.name/conquering-impostor-syndrome
 - [ ] https://davidwalsh.name/impostor-syndrome
 - [ ] http://sscce.org/
 - [ ] https://medium.com/@dan_abramov/asking-good-questions-421f08ee7e5c
 - [x] https://overreacted.io/the-elements-of-ui-engineering/
+- [ ] [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)
+- [ ] [About Yak Shaving](https://antfu.me/posts/about-yak-shaving)
 
 #### JS core
 
@@ -181,7 +184,10 @@
 - [ ] [Pursuit of Performance on Building a JavaScript Compiler](https://rustmagazine.org/issue-3/javascript-compiler/)
 - [ ] [Collapsing Layers](https://www.swyx.io/collapsing-layers)
 - [ ] [Inlining constants with const enums in TypeScript](https://www.growingwiththeweb.com/2021/01/typescript-inline-const-enums.html)
-- [ ]
+- [ ] [Rewriting our Rust WASM Parser in TypeScript](https://www.openui.com/blog/rust-wasm-parser)
+- [ ] [Source Maps: Shipping Features Through Standards](https://bloomberg.github.io/js-blog/post/standardizing-source-maps/)
+- [ ] 
+
 
 #### Patterns
 
