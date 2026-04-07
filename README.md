@@ -468,3 +468,35 @@ jake archibald
 - [x] https://www.nngroup.com/articles/subscribe/
 - [x] https://sidebar.io/
 - [x] https://adripofjavascript.com/
+
+
+#### Unlabelled
+- [ ] [Chess in Pure SQL](https://www.dbpro.app/blog/chess-in-pure-sql)
+- [ ] [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
+- [ ] [Signals, the push-pull based algorithm](https://willybrauner.com/journal/signal-the-push-pull-based-algorithm?ck_subscriber_id=3149309619)
+- [ ] [Build your own shimmer skeleton that never goes out of sync](https://neciudan.dev/lets-build-dynamic-shimmer-skeletons)
+- [ ] [How Do We Get Developers to Read the Docs](https://idiallo.com/blog/how-do-we-get-developers-to-read-the-docs)
+- [x] [Why we replaced Node.js with Bun for 5x throughput](https://trigger.dev/blog/firebun)
+- [ ] [Your options for preloading images with JavaScript](https://macarthur.me/posts/preloading-images/)
+- [ ] [How we Rewrote 130K Lines from React to Svelte in Two Weeks](https://strawberrybrowser.com/blog/react-to-svelte)
+- [ ] [Rethinking async loops in JavaScript](https://allthingssmitty.com/2025/10/20/rethinking-async-loops-in-javascript/)
+- [ ] [Why TypeScript Won't Save You](https://cekrem.github.io/posts/why-typescript-wont-save-you/)
+- [ ] [JavaScript: Written by Sleep‑Deprived Developers in a Basement (A History lesson on javascript)](https://javascript.plainenglish.io/javascript-written-by-sleep-deprived-developers-in-a-basement-a-history-lesson-on-javascript-96728825201a)
+- [ ] [Slowness is a Virtue](https://blog.jakobschwichtenberg.com/p/slowness-is-a-virtue)
+- [ ] [How we pwned X (Twitter), Vercel, Cursor, Discord, and hundreds of companies through a supply-chain attack](https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28)
+- [ ] [What an unprocessed photo looks like:](https://maurycyz.com/misc/raw_photo/)
+- [ ] [You can make up HTML tags:](https://maurycyz.com/misc/make-up-tags/)
+- [ ] [https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
+- [ ] [Database Transactions](https://planetscale.com/blog/database-transactions)
+- [ ] [There is No Need to Trap Focus on a Dialog Element](https://css-tricks.com/there-is-no-need-to-trap-focus-on-a-dialog-element/)
+- [ ] [You can't design software you don't work on](https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/)
+- [ ] [A Basic Just-In-Time Compiler](https://nullprogram.com/blog/2015/03/19/)
+- [ ] [The Future of Software Development is Software Developers](https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/)
+- [ ] [Git Rebase for the Terrified](https://www.brethorsting.com/blog/2026/01/git-rebase-for-the-terrified/)
+- [ ] [How Browsers Work](https://howbrowserswork.com/)
+
+
+
+
+
+
