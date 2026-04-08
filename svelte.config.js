@@ -7,7 +7,7 @@ const config = {
       fallback: "404.html",
     }),
     paths: {
-      base: "read-list",
+      base: "dist",
     },
   },
 };
