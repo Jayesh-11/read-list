@@ -7,7 +7,7 @@ const config = {
       fallback: "404.html",
     }),
     paths: {
-      base: "read-list",
+      base: process.argv.includes("dev") ? "" : process.env.BASE_PATH,
     },
   },
 };
