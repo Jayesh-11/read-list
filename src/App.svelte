@@ -14,7 +14,6 @@
     const queryResults = miniSearch.search(query, {
       filter: (result) => {
         const resultTagSet = new Set(result.tags);
-        $inspect(resultTagSet);
         return tagsFilter.some((tag) => resultTagSet.has(tag));
       },
     });
