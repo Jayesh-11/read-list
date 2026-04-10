@@ -11,15 +11,18 @@
   let tagsFilter: string[] = $state([]);
 
   const results = $derived.by(() => {
+    const tagsFilterSet = new Set(tagsFilter);
+    if (!query) {
+      if (tagsFilter.length === 0) return list;
+      return list.filter((item) => {
+        return item.tags.some((tag: string) => tagsFilterSet.has(tag));
+      });
+    }
     const queryResults = miniSearch.search(query, {
       filter: (result) => {
-        const resultTagSet = new Set(result.tags);
-        return tagsFilter.some((tag) => resultTagSet.has(tag));
+        return result.tags.some((tag: string) => tagsFilterSet.has(tag));
       },
     });
-    if (queryResults.length === 0 && !query && tagsFilter.length === 0) {
-      return list;
-    }
     return queryResults;
   });
 
@@ -42,7 +45,7 @@
   />
   <div class="tag-filter-view">
     {#each tagsFilter as filterTag (filterTag)}
-      <button>{filterTag}</button>
+      <button class="tag" data-tagname={filterTag}>{filterTag}</button>
     {/each}
   </div>
 
@@ -52,8 +55,10 @@
       <span>{result.author}</span>
       <div class="tag-container">
         {#each result.tags as tag}
-          <button class="tag" onclick={() => onTagClickHandler(tag)}
-            >{tag}</button
+          <button
+            class="tag"
+            data-tagname={tag}
+            onclick={() => onTagClickHandler(tag)}>{tag}</button
           >
         {/each}
       </div>
@@ -63,7 +68,6 @@
 
 <style>
   .card {
-    border-radius: 8px;
     display: flex;
     flex-direction: column;
     gap: 8px;
@@ -88,7 +92,6 @@
 
   .query-input {
     font-size: 16px;
-    border-radius: 8px;
     padding: 12px;
     max-width: 100%;
     border: 1.5px solid #000;
@@ -110,9 +113,14 @@
 
   .tag {
     border: none;
-    border-radius: 4px;
     cursor: pointer;
     font-size: 14px;
+    padding: 4px 8px;
+    font-family: monospace;
+  }
+
+  .tag[data-tagname="React"] {
+    background-color: rgb(97, 219, 251);
   }
 
   .tag-filter-view {
