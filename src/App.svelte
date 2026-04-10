@@ -63,12 +63,20 @@
 
 <style>
   .card {
-    border: 1px solid #c2c1c1;
     border-radius: 8px;
     display: flex;
     flex-direction: column;
     gap: 8px;
     padding: 8px;
+    max-width: 100%;
+    border: 1.5px solid #000;
+    box-shadow: 2px 2px 0 #000;
+    outline: none;
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  }
+
+  .card:hover {
+    box-shadow: 4px 4px 0 rgba(0, 0, 0);
   }
 
   .container {
@@ -81,8 +89,17 @@
   .query-input {
     font-size: 16px;
     border-radius: 8px;
-    border: 1px solid #c2c1c1;
-    padding: 8px;
+    padding: 12px;
+    max-width: 100%;
+    border: 1.5px solid #000;
+    box-shadow: 2px 2px 0 #000;
+    outline: none;
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  }
+
+  .query-input:hover,
+  .query-input:focus {
+    box-shadow: 4px 4px 0 rgba(0, 0, 0);
   }
 
   .tag-container {
