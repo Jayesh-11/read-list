@@ -20,6 +20,7 @@
     }
     const queryResults = miniSearch.search(query, {
       filter: (result) => {
+        if (tagsFilter.length === 0) return result;
         return result.tags.some((tag: string) => tagsFilterSet.has(tag));
       },
     });
