@@ -2,8 +2,8 @@
   import list from "./list.json";
   import MiniSearch from "minisearch";
   const miniSearch = new MiniSearch({
-    fields: ["title", "tags", "notes", "createdAt", "url"],
-    storeFields: ["title", "tags", "notes", "createdAt", "url"],
+    fields: ["title", "tags", "notes", "createdAt", "url", "author"],
+    storeFields: ["title", "tags", "notes", "createdAt", "url", "author"],
   });
   miniSearch.addAll(list);
 
