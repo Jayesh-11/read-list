@@ -62,7 +62,7 @@
   .about-popover {
     gap: 8px;
     padding: 8px;
-    max-width: 60vh;
+    max-width: 90vw;
     border: 2px solid #000;
     box-shadow: 2px 2px 0 #000;
     outline: none;
