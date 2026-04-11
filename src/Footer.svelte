@@ -1,14 +1,15 @@
-<div>
-  <button class="footer-button" popovertarget="about" commandfor="about"
-    >About</button
-  >
-  <button class="footer-button" command="show-modal" commandfor="add-new"
-    >Add new</button
-  >
-  <a href="https://github.com/Jayesh-11/read-list">Github</a>
+<div class="footer">
+  <div>
+    <button class="footer-button" popovertarget="about" commandfor="about"
+      >About</button
+    >
+    <button class="footer-button" command="show-modal" commandfor="add-new"
+      >Add new</button
+    >
+    <a href="https://github.com/Jayesh-11/read-list">Github</a>
+  </div>
+  <a href="https://j0dev.com/">By Jayesh Vyavahare</a>
 </div>
-
-<a href="https://j0dev.com/">By Jayesh Vyavahare</a>
 
 <dialog id="add-new">
   <p>WIP form</p>
@@ -45,6 +46,11 @@
 </div>
 
 <style>
+  .footer {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
   .footer-button {
     padding: 4px 8px;
     border: 1.5px solid #000;
