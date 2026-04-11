@@ -1,3 +1,7 @@
+<script>
+  import EntryBuilder from "./EntryBuilder.svelte";
+</script>
+
 <div class="footer">
   <div>
     <button class="footer-button" popovertarget="about" commandfor="about"
@@ -12,7 +16,7 @@
 </div>
 
 <dialog id="add-new">
-  <p>WIP form</p>
+  <EntryBuilder />
   <button commandfor="my-dialog" command="close">Close</button>
 </dialog>
 
