@@ -65,12 +65,13 @@
   }
   .about-popover {
     gap: 8px;
-    padding: 8px;
-    max-width: 90vw;
+    padding: 16px;
+    max-width: min(400px, 80vw);
+    max-height: min(400px, 80vh);
     border: 2px solid #000;
     box-shadow: 2px 2px 0 #000;
     outline: none;
-    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
   }
   .close-button {
     border: 1.5px solid #000;
@@ -79,5 +80,10 @@
     cursor: pointer;
     font-size: 16px;
     padding: 4px 8px;
+    transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  }
+
+  .close-button:active {
+    box-shadow: 0px 0px 0 #000;
   }
 </style>
