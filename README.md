@@ -494,6 +494,7 @@ jake archibald
 - [ ] [The Future of Software Development is Software Developers](https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/)
 - [ ] [Git Rebase for the Terrified](https://www.brethorsting.com/blog/2026/01/git-rebase-for-the-terrified/)
 - [ ] [How Browsers Work](https://howbrowserswork.com/)
+- [ ] [building a javascript runtime in one month](https://themackabu.dev/blog/js-in-one-month)
 
 
 
