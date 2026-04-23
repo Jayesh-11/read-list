@@ -495,6 +495,7 @@ jake archibald
 - [ ] [Git Rebase for the Terrified](https://www.brethorsting.com/blog/2026/01/git-rebase-for-the-terrified/)
 - [ ] [How Browsers Work](https://howbrowserswork.com/)
 - [ ] [building a javascript runtime in one month](https://themackabu.dev/blog/js-in-one-month)
+- [ ] https://aseemk.substack.com/p/ignore-the-f-ing-haters-json5
 
 
 
